@@ -1,0 +1,10 @@
+.disabledList{
+    
+    pointer-events:none; 
+    opacity:0.6;        
+
+}
+body{ background:teal;
+   border:150px solid skyblue; 
+}
+
